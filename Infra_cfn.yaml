@@ -22,7 +22,7 @@ Parameters:
   GithubLink:
     Type: String
     Description: "The link to the agent build cloudformation stack"
-    Default: "https://github.com/aws-samples/amazon-bedrock-agents-healthcare-lifesciences.git"
+    Default: "https://github.com/BalkrishnaBhat/amazon-bedrock-agents-healthcare-lifesciences.git"
   GitBranch:
     Type: String
     Description: The github branch to clone
