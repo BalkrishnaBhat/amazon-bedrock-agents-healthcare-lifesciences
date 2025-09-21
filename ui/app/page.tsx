@@ -126,15 +126,15 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Healthcare & Life Sciences AI Agents</title>
+        <title>AI Agents</title>
       </Head>
-      <div className="container p-4">
-        <div className="flex flex-col items-center mb-4">
-          <Image src="/images/aws-logo.svg" alt="AWS Logo" width={150} height={50} className="mb-4" />
-          <h1 className="text-2xl font-bold">Healthcare and Life Sciences Agent Catalog</h1>
+      <div className="min-h-screen flex flex-col bg-gray-100">
+        <div className="bg-white shadow p-4 text-center text-2xl font-bold">
+          <Image src="/images/roche_logo.png" alt="Roche Logo" width={100} height={30} className="mx-auto mb-2" />
+	  <h1 className="text-2xl font-bold justify-center">Agent Catalog</h1>
         </div>
 
-        {/* Filter Bar */}
+        {/* Filter Bar 
         <div className="flex gap-3 mb-4">
           {['all', 'collaborator', 'non-collaborator'].map((type) => (
             <span
@@ -147,12 +147,12 @@ export default function Home() {
               {type === 'all' ? 'All' : type === 'collaborator' ? 'Supervisors' : 'Individual'}
             </span>
           ))}
-        </div>
+        </div> */}
 
         <input
           type="text"
           className="w-full p-2 border rounded mb-4"
-          placeholder="Search for AI Healthcare Agents"
+          placeholder="Search for AI Agents"
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
