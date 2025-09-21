@@ -89,7 +89,7 @@ async function getAgentDetails(agentId: string) {
         createdAt: response.agent.createdAt ? response.agent.createdAt.toISOString() : "N/A",
         updatedAt: response.agent.updatedAt ? response.agent.updatedAt.toISOString() : "N/A",
         tags: response.agent.agentArn ? await getAgentTags(response.agent.agentArn) : [],
-        image: "/images/default_agent_icon.png",
+        image: "/images/ai_agent.png",
         category: "HCLS",
         agentCollaboration: response.agent.agentCollaboration || "N/A",
         agentResourceRoleArn: response.agent.agentResourceRoleArn || "N/A",
