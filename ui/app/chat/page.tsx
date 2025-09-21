@@ -180,7 +180,7 @@ export default function ChatPage() {
   return (
     <div className="min-h-screen flex flex-col bg-gray-100">
       <header className="bg-white shadow p-4 text-center text-2xl font-bold">
-        <Image src="/images/aws-logo.svg" alt="AWS Logo" width={150} height={50} className="mx-auto mb-2" />
+        <Image src="/images/roche_logo.png" alt="Roche Logo" width={100} height={30} className="mx-auto mb-2" />
         Chat with Selected Agents
       </header>
 
