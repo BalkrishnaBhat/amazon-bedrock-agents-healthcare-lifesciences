@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "T1001",
+    "patient": "P001",
+    "type": "Glucose FBS",
+    "value": 147.9,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1002",
+    "patient": "P002",
+    "type": "Cholesterol",
+    "value": 247.9,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1003",
+    "patient": "P003",
+    "type": "Cholesterol",
+    "value": 245.7,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1004",
+    "patient": "P004",
+    "type": "Glucose FBS",
+    "value": 186.3,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1005",
+    "patient": "P005",
+    "type": "Hemoglobin",
+    "value": 11.1,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1006",
+    "patient": "P006",
+    "type": "Glucose FBS",
+    "value": 63.8,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1007",
+    "patient": "P007",
+    "type": "Cholesterol",
+    "value": 167.8,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1008",
+    "patient": "P008",
+    "type": "Platelets",
+    "value": 100.9,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1009",
+    "patient": "P009",
+    "type": "Cholesterol",
+    "value": 144.8,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1010",
+    "patient": "P010",
+    "type": "Platelets",
+    "value": 100.0,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1011",
+    "patient": "P011",
+    "type": "Hemoglobin",
+    "value": 14.5,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1012",
+    "patient": "P012",
+    "type": "Hemoglobin",
+    "value": 10.3,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1013",
+    "patient": "P013",
+    "type": "Creatinine",
+    "value": 97.1,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1014",
+    "patient": "P014",
+    "type": "Creatinine",
+    "value": 157.5,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1015",
+    "patient": "P015",
+    "type": "Hemoglobin",
+    "value": 15.4,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1016",
+    "patient": "P016",
+    "type": "Creatinine",
+    "value": 107.4,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1017",
+    "patient": "P017",
+    "type": "Hemoglobin",
+    "value": 8.2,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1018",
+    "patient": "P018",
+    "type": "Glucose FBS",
+    "value": 76.9,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1019",
+    "patient": "P019",
+    "type": "Glucose FBS",
+    "value": 157.3,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1020",
+    "patient": "P020",
+    "type": "Glucose FBS",
+    "value": 51.0,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1021",
+    "patient": "P021",
+    "type": "Creatinine",
+    "value": 51.4,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1022",
+    "patient": "P022",
+    "type": "Creatinine",
+    "value": 171.9,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1023",
+    "patient": "P023",
+    "type": "Platelets",
+    "value": 69.6,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1024",
+    "patient": "P024",
+    "type": "Glucose FBS",
+    "value": 59.6,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1025",
+    "patient": "P025",
+    "type": "Creatinine",
+    "value": 51.9,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1026",
+    "patient": "P026",
+    "type": "Cholesterol",
+    "value": 228.9,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1027",
+    "patient": "P027",
+    "type": "Hemoglobin",
+    "value": 8.8,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1028",
+    "patient": "P028",
+    "type": "Glucose FBS",
+    "value": 120.0,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1029",
+    "patient": "P029",
+    "type": "Hemoglobin",
+    "value": 8.8,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1030",
+    "patient": "P030",
+    "type": "Creatinine",
+    "value": 101.4,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1031",
+    "patient": "P031",
+    "type": "Cholesterol",
+    "value": 244.3,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1032",
+    "patient": "P032",
+    "type": "Cholesterol",
+    "value": 225.1,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1033",
+    "patient": "P033",
+    "type": "Hemoglobin",
+    "value": 8.3,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1034",
+    "patient": "P034",
+    "type": "Platelets",
+    "value": 87.1,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1035",
+    "patient": "P035",
+    "type": "Creatinine",
+    "value": 134.6,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1036",
+    "patient": "P036",
+    "type": "Glucose FBS",
+    "value": 133.6,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1037",
+    "patient": "P037",
+    "type": "Creatinine",
+    "value": 104.4,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1038",
+    "patient": "P038",
+    "type": "Platelets",
+    "value": 55.0,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1039",
+    "patient": "P039",
+    "type": "Glucose FBS",
+    "value": 137.5,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1040",
+    "patient": "P040",
+    "type": "Platelets",
+    "value": 194.8,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1041",
+    "patient": "P041",
+    "type": "Hemoglobin",
+    "value": 8.4,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1042",
+    "patient": "P042",
+    "type": "Creatinine",
+    "value": 102.6,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1043",
+    "patient": "P043",
+    "type": "Hemoglobin",
+    "value": 16.0,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1044",
+    "patient": "P044",
+    "type": "Creatinine",
+    "value": 177.6,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1045",
+    "patient": "P045",
+    "type": "Cholesterol",
+    "value": 198.7,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1046",
+    "patient": "P046",
+    "type": "Creatinine",
+    "value": 111.1,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1047",
+    "patient": "P047",
+    "type": "Hemoglobin",
+    "value": 10.8,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1048",
+    "patient": "P048",
+    "type": "Cholesterol",
+    "value": 156.8,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1049",
+    "patient": "P049",
+    "type": "Hemoglobin",
+    "value": 11.3,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1050",
+    "patient": "P050",
+    "type": "Hemoglobin",
+    "value": 16.5,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1051",
+    "patient": "P051",
+    "type": "Creatinine",
+    "value": 156.2,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1052",
+    "patient": "P052",
+    "type": "Cholesterol",
+    "value": 100.2,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1053",
+    "patient": "P053",
+    "type": "Creatinine",
+    "value": 174.5,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1054",
+    "patient": "P054",
+    "type": "Creatinine",
+    "value": 114.6,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1055",
+    "patient": "P055",
+    "type": "Creatinine",
+    "value": 121.9,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1056",
+    "patient": "P056",
+    "type": "Hemoglobin",
+    "value": 11.2,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1057",
+    "patient": "P057",
+    "type": "Creatinine",
+    "value": 121.5,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1058",
+    "patient": "P058",
+    "type": "Platelets",
+    "value": 104.3,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1059",
+    "patient": "P059",
+    "type": "Hemoglobin",
+    "value": 12.3,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1060",
+    "patient": "P060",
+    "type": "Platelets",
+    "value": 108.7,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1061",
+    "patient": "P061",
+    "type": "Cholesterol",
+    "value": 249.3,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1062",
+    "patient": "P062",
+    "type": "Platelets",
+    "value": 74.4,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1063",
+    "patient": "P063",
+    "type": "Glucose FBS",
+    "value": 64.4,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1064",
+    "patient": "P064",
+    "type": "Glucose FBS",
+    "value": 51.9,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1065",
+    "patient": "P065",
+    "type": "Glucose FBS",
+    "value": 195.8,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1066",
+    "patient": "P066",
+    "type": "Hemoglobin",
+    "value": 12.2,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1067",
+    "patient": "P067",
+    "type": "Hemoglobin",
+    "value": 14.2,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1068",
+    "patient": "P068",
+    "type": "Hemoglobin",
+    "value": 10.3,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1069",
+    "patient": "P069",
+    "type": "Hemoglobin",
+    "value": 16.7,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1070",
+    "patient": "P070",
+    "type": "Glucose FBS",
+    "value": 195.7,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1071",
+    "patient": "P071",
+    "type": "Hemoglobin",
+    "value": 12.0,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1072",
+    "patient": "P072",
+    "type": "Glucose FBS",
+    "value": 86.0,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1073",
+    "patient": "P073",
+    "type": "Cholesterol",
+    "value": 224.3,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1074",
+    "patient": "P074",
+    "type": "Hemoglobin",
+    "value": 9.7,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1075",
+    "patient": "P075",
+    "type": "Cholesterol",
+    "value": 193.8,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1076",
+    "patient": "P076",
+    "type": "Hemoglobin",
+    "value": 10.3,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1077",
+    "patient": "P077",
+    "type": "Glucose FBS",
+    "value": 75.6,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1078",
+    "patient": "P078",
+    "type": "Platelets",
+    "value": 179.4,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1079",
+    "patient": "P079",
+    "type": "Creatinine",
+    "value": 96.7,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1080",
+    "patient": "P080",
+    "type": "Creatinine",
+    "value": 125.8,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1081",
+    "patient": "P081",
+    "type": "Creatinine",
+    "value": 124.2,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1082",
+    "patient": "P082",
+    "type": "Platelets",
+    "value": 84.0,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1083",
+    "patient": "P083",
+    "type": "Creatinine",
+    "value": 71.8,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1084",
+    "patient": "P084",
+    "type": "Platelets",
+    "value": 78.0,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1085",
+    "patient": "P085",
+    "type": "Creatinine",
+    "value": 98.4,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1086",
+    "patient": "P086",
+    "type": "Creatinine",
+    "value": 109.9,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1087",
+    "patient": "P087",
+    "type": "Hemoglobin",
+    "value": 15.8,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1088",
+    "patient": "P088",
+    "type": "Creatinine",
+    "value": 161.4,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1089",
+    "patient": "P089",
+    "type": "Hemoglobin",
+    "value": 12.8,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1090",
+    "patient": "P090",
+    "type": "Hemoglobin",
+    "value": 16.0,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1091",
+    "patient": "P091",
+    "type": "Glucose FBS",
+    "value": 195.0,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1092",
+    "patient": "P092",
+    "type": "Creatinine",
+    "value": 166.4,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1093",
+    "patient": "P093",
+    "type": "Cholesterol",
+    "value": 236.3,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1094",
+    "patient": "P094",
+    "type": "Hemoglobin",
+    "value": 10.4,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1095",
+    "patient": "P095",
+    "type": "Hemoglobin",
+    "value": 8.2,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "Low"
+  },
+  {
+    "id": "T1096",
+    "patient": "P096",
+    "type": "Hemoglobin",
+    "value": 16.7,
+    "unit": "g/dL",
+    "range": [
+      12,
+      16
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1097",
+    "patient": "P097",
+    "type": "Glucose FBS",
+    "value": 133.9,
+    "unit": "mg/dL",
+    "range": [
+      70,
+      110
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1098",
+    "patient": "P098",
+    "type": "Cholesterol",
+    "value": 116.9,
+    "unit": "mg/dL",
+    "range": [
+      0,
+      200
+    ],
+    "flag": "Normal"
+  },
+  {
+    "id": "T1099",
+    "patient": "P099",
+    "type": "Platelets",
+    "value": 157.5,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "High"
+  },
+  {
+    "id": "T1100",
+    "patient": "P100",
+    "type": "Platelets",
+    "value": 69.1,
+    "unit": "mg/dL",
+    "range": [
+      50,
+      150
+    ],
+    "flag": "Normal"
+  }
+]

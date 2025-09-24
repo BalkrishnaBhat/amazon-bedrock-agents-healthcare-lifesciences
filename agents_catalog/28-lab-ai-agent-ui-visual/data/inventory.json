@@ -1,0 +1,702 @@
+[
+  {
+    "item": "Test Tubes",
+    "stock": 446,
+    "threshold": 1000,
+    "usage": 153,
+    "leadTime": 7
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 1728,
+    "threshold": 300,
+    "usage": 178,
+    "leadTime": 7
+  },
+  {
+    "item": "Kits",
+    "stock": 207,
+    "threshold": 200,
+    "usage": 175,
+    "leadTime": 3
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 1725,
+    "threshold": 50,
+    "usage": 5,
+    "leadTime": 4
+  },
+  {
+    "item": "Pipettes",
+    "stock": 221,
+    "threshold": 200,
+    "usage": 79,
+    "leadTime": 3
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 1809,
+    "threshold": 300,
+    "usage": 125,
+    "leadTime": 9
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 1946,
+    "threshold": 50,
+    "usage": 7,
+    "leadTime": 3
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 289,
+    "threshold": 50,
+    "usage": 106,
+    "leadTime": 6
+  },
+  {
+    "item": "Pipettes",
+    "stock": 723,
+    "threshold": 200,
+    "usage": 22,
+    "leadTime": 10
+  },
+  {
+    "item": "Pipettes",
+    "stock": 187,
+    "threshold": 200,
+    "usage": 75,
+    "leadTime": 5
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 104,
+    "threshold": 1000,
+    "usage": 196,
+    "leadTime": 9
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 1339,
+    "threshold": 300,
+    "usage": 48,
+    "leadTime": 7
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 577,
+    "threshold": 300,
+    "usage": 88,
+    "leadTime": 2
+  },
+  {
+    "item": "Kits",
+    "stock": 165,
+    "threshold": 200,
+    "usage": 99,
+    "leadTime": 5
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 1127,
+    "threshold": 300,
+    "usage": 116,
+    "leadTime": 2
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 1868,
+    "threshold": 50,
+    "usage": 132,
+    "leadTime": 3
+  },
+  {
+    "item": "Kits",
+    "stock": 1833,
+    "threshold": 200,
+    "usage": 91,
+    "leadTime": 10
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 1590,
+    "threshold": 1000,
+    "usage": 125,
+    "leadTime": 6
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 1483,
+    "threshold": 1000,
+    "usage": 126,
+    "leadTime": 7
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 858,
+    "threshold": 300,
+    "usage": 47,
+    "leadTime": 2
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 283,
+    "threshold": 300,
+    "usage": 150,
+    "leadTime": 7
+  },
+  {
+    "item": "Pipettes",
+    "stock": 138,
+    "threshold": 200,
+    "usage": 148,
+    "leadTime": 10
+  },
+  {
+    "item": "Kits",
+    "stock": 1772,
+    "threshold": 200,
+    "usage": 190,
+    "leadTime": 3
+  },
+  {
+    "item": "Kits",
+    "stock": 641,
+    "threshold": 200,
+    "usage": 14,
+    "leadTime": 10
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 685,
+    "threshold": 1000,
+    "usage": 177,
+    "leadTime": 7
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 1220,
+    "threshold": 50,
+    "usage": 151,
+    "leadTime": 6
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 170,
+    "threshold": 50,
+    "usage": 184,
+    "leadTime": 7
+  },
+  {
+    "item": "Kits",
+    "stock": 1727,
+    "threshold": 200,
+    "usage": 59,
+    "leadTime": 8
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 1023,
+    "threshold": 1000,
+    "usage": 12,
+    "leadTime": 6
+  },
+  {
+    "item": "Kits",
+    "stock": 1538,
+    "threshold": 200,
+    "usage": 152,
+    "leadTime": 5
+  },
+  {
+    "item": "Kits",
+    "stock": 1083,
+    "threshold": 200,
+    "usage": 75,
+    "leadTime": 3
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 819,
+    "threshold": 50,
+    "usage": 96,
+    "leadTime": 8
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 1239,
+    "threshold": 50,
+    "usage": 121,
+    "leadTime": 8
+  },
+  {
+    "item": "Pipettes",
+    "stock": 1776,
+    "threshold": 200,
+    "usage": 171,
+    "leadTime": 3
+  },
+  {
+    "item": "Kits",
+    "stock": 1064,
+    "threshold": 200,
+    "usage": 189,
+    "leadTime": 6
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 1258,
+    "threshold": 300,
+    "usage": 181,
+    "leadTime": 7
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 769,
+    "threshold": 50,
+    "usage": 73,
+    "leadTime": 7
+  },
+  {
+    "item": "Pipettes",
+    "stock": 1123,
+    "threshold": 200,
+    "usage": 146,
+    "leadTime": 10
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 773,
+    "threshold": 50,
+    "usage": 190,
+    "leadTime": 4
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 1426,
+    "threshold": 1000,
+    "usage": 59,
+    "leadTime": 5
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 390,
+    "threshold": 1000,
+    "usage": 132,
+    "leadTime": 4
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 463,
+    "threshold": 50,
+    "usage": 156,
+    "leadTime": 4
+  },
+  {
+    "item": "Kits",
+    "stock": 506,
+    "threshold": 200,
+    "usage": 134,
+    "leadTime": 7
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 322,
+    "threshold": 1000,
+    "usage": 134,
+    "leadTime": 2
+  },
+  {
+    "item": "Pipettes",
+    "stock": 1678,
+    "threshold": 200,
+    "usage": 15,
+    "leadTime": 10
+  },
+  {
+    "item": "Pipettes",
+    "stock": 199,
+    "threshold": 200,
+    "usage": 107,
+    "leadTime": 10
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 931,
+    "threshold": 300,
+    "usage": 130,
+    "leadTime": 9
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 996,
+    "threshold": 1000,
+    "usage": 72,
+    "leadTime": 5
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 108,
+    "threshold": 1000,
+    "usage": 170,
+    "leadTime": 2
+  },
+  {
+    "item": "Pipettes",
+    "stock": 1693,
+    "threshold": 200,
+    "usage": 168,
+    "leadTime": 9
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 646,
+    "threshold": 300,
+    "usage": 138,
+    "leadTime": 9
+  },
+  {
+    "item": "Kits",
+    "stock": 1082,
+    "threshold": 200,
+    "usage": 118,
+    "leadTime": 3
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 973,
+    "threshold": 50,
+    "usage": 52,
+    "leadTime": 7
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 982,
+    "threshold": 1000,
+    "usage": 153,
+    "leadTime": 9
+  },
+  {
+    "item": "Pipettes",
+    "stock": 1040,
+    "threshold": 200,
+    "usage": 30,
+    "leadTime": 7
+  },
+  {
+    "item": "Pipettes",
+    "stock": 1938,
+    "threshold": 200,
+    "usage": 12,
+    "leadTime": 8
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 1766,
+    "threshold": 300,
+    "usage": 162,
+    "leadTime": 9
+  },
+  {
+    "item": "Pipettes",
+    "stock": 332,
+    "threshold": 200,
+    "usage": 131,
+    "leadTime": 3
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 404,
+    "threshold": 1000,
+    "usage": 57,
+    "leadTime": 3
+  },
+  {
+    "item": "Pipettes",
+    "stock": 1515,
+    "threshold": 200,
+    "usage": 129,
+    "leadTime": 8
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 1338,
+    "threshold": 300,
+    "usage": 33,
+    "leadTime": 9
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 278,
+    "threshold": 1000,
+    "usage": 29,
+    "leadTime": 6
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 224,
+    "threshold": 300,
+    "usage": 84,
+    "leadTime": 6
+  },
+  {
+    "item": "Kits",
+    "stock": 270,
+    "threshold": 200,
+    "usage": 92,
+    "leadTime": 9
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 367,
+    "threshold": 50,
+    "usage": 129,
+    "leadTime": 6
+  },
+  {
+    "item": "Kits",
+    "stock": 1394,
+    "threshold": 200,
+    "usage": 92,
+    "leadTime": 2
+  },
+  {
+    "item": "Kits",
+    "stock": 630,
+    "threshold": 200,
+    "usage": 27,
+    "leadTime": 3
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 1801,
+    "threshold": 50,
+    "usage": 155,
+    "leadTime": 10
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 1499,
+    "threshold": 1000,
+    "usage": 172,
+    "leadTime": 6
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 1030,
+    "threshold": 1000,
+    "usage": 150,
+    "leadTime": 3
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 1820,
+    "threshold": 300,
+    "usage": 154,
+    "leadTime": 6
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 1817,
+    "threshold": 1000,
+    "usage": 200,
+    "leadTime": 10
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 1136,
+    "threshold": 300,
+    "usage": 88,
+    "leadTime": 7
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 832,
+    "threshold": 300,
+    "usage": 21,
+    "leadTime": 7
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 998,
+    "threshold": 50,
+    "usage": 148,
+    "leadTime": 8
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 1262,
+    "threshold": 50,
+    "usage": 16,
+    "leadTime": 8
+  },
+  {
+    "item": "Pipettes",
+    "stock": 923,
+    "threshold": 200,
+    "usage": 36,
+    "leadTime": 3
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 2000,
+    "threshold": 1000,
+    "usage": 24,
+    "leadTime": 5
+  },
+  {
+    "item": "Kits",
+    "stock": 292,
+    "threshold": 200,
+    "usage": 142,
+    "leadTime": 2
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 1839,
+    "threshold": 50,
+    "usage": 44,
+    "leadTime": 5
+  },
+  {
+    "item": "Pipettes",
+    "stock": 514,
+    "threshold": 200,
+    "usage": 124,
+    "leadTime": 8
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 740,
+    "threshold": 1000,
+    "usage": 73,
+    "leadTime": 2
+  },
+  {
+    "item": "Pipettes",
+    "stock": 326,
+    "threshold": 200,
+    "usage": 186,
+    "leadTime": 9
+  },
+  {
+    "item": "Pipettes",
+    "stock": 153,
+    "threshold": 200,
+    "usage": 92,
+    "leadTime": 6
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 550,
+    "threshold": 50,
+    "usage": 190,
+    "leadTime": 4
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 807,
+    "threshold": 50,
+    "usage": 197,
+    "leadTime": 2
+  },
+  {
+    "item": "Pipettes",
+    "stock": 1480,
+    "threshold": 200,
+    "usage": 27,
+    "leadTime": 3
+  },
+  {
+    "item": "Kits",
+    "stock": 1034,
+    "threshold": 200,
+    "usage": 181,
+    "leadTime": 6
+  },
+  {
+    "item": "Pipettes",
+    "stock": 419,
+    "threshold": 200,
+    "usage": 105,
+    "leadTime": 7
+  },
+  {
+    "item": "Kits",
+    "stock": 1776,
+    "threshold": 200,
+    "usage": 79,
+    "leadTime": 3
+  },
+  {
+    "item": "Pipettes",
+    "stock": 744,
+    "threshold": 200,
+    "usage": 74,
+    "leadTime": 2
+  },
+  {
+    "item": "Pipettes",
+    "stock": 829,
+    "threshold": 200,
+    "usage": 68,
+    "leadTime": 8
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 214,
+    "threshold": 300,
+    "usage": 164,
+    "leadTime": 9
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 983,
+    "threshold": 300,
+    "usage": 54,
+    "leadTime": 7
+  },
+  {
+    "item": "Pipettes",
+    "stock": 513,
+    "threshold": 200,
+    "usage": 12,
+    "leadTime": 6
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 1367,
+    "threshold": 300,
+    "usage": 127,
+    "leadTime": 6
+  },
+  {
+    "item": "Gloves (boxes)",
+    "stock": 1703,
+    "threshold": 50,
+    "usage": 195,
+    "leadTime": 7
+  },
+  {
+    "item": "Syringes (5ml)",
+    "stock": 1770,
+    "threshold": 300,
+    "usage": 57,
+    "leadTime": 8
+  },
+  {
+    "item": "Kits",
+    "stock": 903,
+    "threshold": 200,
+    "usage": 140,
+    "leadTime": 6
+  },
+  {
+    "item": "Test Tubes",
+    "stock": 333,
+    "threshold": 1000,
+    "usage": 13,
+    "leadTime": 9
+  }
+]

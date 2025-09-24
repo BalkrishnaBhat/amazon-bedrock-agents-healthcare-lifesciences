@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Reagent B",
+    "batch": "B101",
+    "expiry": "2026-12-22",
+    "usage": 66,
+    "stock": 1935
+  },
+  {
+    "name": "Reagent C",
+    "batch": "B102",
+    "expiry": "2026-12-10",
+    "usage": 115,
+    "stock": 4605
+  },
+  {
+    "name": "Reagent D",
+    "batch": "B103",
+    "expiry": "2027-07-06",
+    "usage": 89,
+    "stock": 1993
+  },
+  {
+    "name": "Reagent E",
+    "batch": "B104",
+    "expiry": "2025-11-03",
+    "usage": 66,
+    "stock": 3000
+  },
+  {
+    "name": "Reagent F",
+    "batch": "B105",
+    "expiry": "2027-01-10",
+    "usage": 126,
+    "stock": 4906
+  },
+  {
+    "name": "Reagent G",
+    "batch": "B106",
+    "expiry": "2027-02-27",
+    "usage": 54,
+    "stock": 4383
+  },
+  {
+    "name": "Reagent H",
+    "batch": "B107",
+    "expiry": "2027-01-06",
+    "usage": 116,
+    "stock": 3615
+  },
+  {
+    "name": "Reagent I",
+    "batch": "B108",
+    "expiry": "2025-12-28",
+    "usage": 196,
+    "stock": 3967
+  },
+  {
+    "name": "Reagent J",
+    "batch": "B109",
+    "expiry": "2026-11-26",
+    "usage": 90,
+    "stock": 544
+  },
+  {
+    "name": "Reagent K",
+    "batch": "B110",
+    "expiry": "2026-05-07",
+    "usage": 65,
+    "stock": 4895
+  },
+  {
+    "name": "Reagent L",
+    "batch": "B111",
+    "expiry": "2027-09-03",
+    "usage": 151,
+    "stock": 3755
+  },
+  {
+    "name": "Reagent M",
+    "batch": "B112",
+    "expiry": "2026-09-28",
+    "usage": 86,
+    "stock": 4110
+  },
+  {
+    "name": "Reagent N",
+    "batch": "B113",
+    "expiry": "2026-10-24",
+    "usage": 191,
+    "stock": 3945
+  },
+  {
+    "name": "Reagent O",
+    "batch": "B114",
+    "expiry": "2025-12-11",
+    "usage": 110,
+    "stock": 1078
+  },
+  {
+    "name": "Reagent P",
+    "batch": "B115",
+    "expiry": "2027-04-13",
+    "usage": 96,
+    "stock": 1727
+  },
+  {
+    "name": "Reagent Q",
+    "batch": "B116",
+    "expiry": "2026-12-29",
+    "usage": 93,
+    "stock": 4155
+  },
+  {
+    "name": "Reagent R",
+    "batch": "B117",
+    "expiry": "2026-01-14",
+    "usage": 127,
+    "stock": 2387
+  },
+  {
+    "name": "Reagent S",
+    "batch": "B118",
+    "expiry": "2026-06-22",
+    "usage": 190,
+    "stock": 2087
+  },
+  {
+    "name": "Reagent T",
+    "batch": "B119",
+    "expiry": "2026-09-09",
+    "usage": 189,
+    "stock": 2748
+  },
+  {
+    "name": "Reagent U",
+    "batch": "B120",
+    "expiry": "2025-12-21",
+    "usage": 84,
+    "stock": 3137
+  },
+  {
+    "name": "Reagent V",
+    "batch": "B121",
+    "expiry": "2027-06-29",
+    "usage": 118,
+    "stock": 4718
+  },
+  {
+    "name": "Reagent W",
+    "batch": "B122",
+    "expiry": "2026-12-14",
+    "usage": 164,
+    "stock": 4086
+  },
+  {
+    "name": "Reagent X",
+    "batch": "B123",
+    "expiry": "2026-09-23",
+    "usage": 69,
+    "stock": 4771
+  },
+  {
+    "name": "Reagent Y",
+    "batch": "B124",
+    "expiry": "2027-04-05",
+    "usage": 145,
+    "stock": 2547
+  },
+  {
+    "name": "Reagent Z",
+    "batch": "B125",
+    "expiry": "2026-03-09",
+    "usage": 144,
+    "stock": 1545
+  },
+  {
+    "name": "Reagent A",
+    "batch": "B126",
+    "expiry": "2025-12-19",
+    "usage": 171,
+    "stock": 3047
+  },
+  {
+    "name": "Reagent B",
+    "batch": "B127",
+    "expiry": "2026-05-19",
+    "usage": 154,
+    "stock": 3284
+  },
+  {
+    "name": "Reagent C",
+    "batch": "B128",
+    "expiry": "2026-12-20",
+    "usage": 177,
+    "stock": 2581
+  },
+  {
+    "name": "Reagent D",
+    "batch": "B129",
+    "expiry": "2026-07-19",
+    "usage": 143,
+    "stock": 3080
+  },
+  {
+    "name": "Reagent E",
+    "batch": "B130",
+    "expiry": "2026-11-05",
+    "usage": 130,
+    "stock": 1588
+  },
+  {
+    "name": "Reagent F",
+    "batch": "B131",
+    "expiry": "2025-11-01",
+    "usage": 113,
+    "stock": 2233
+  },
+  {
+    "name": "Reagent G",
+    "batch": "B132",
+    "expiry": "2026-05-23",
+    "usage": 119,
+    "stock": 1462
+  },
+  {
+    "name": "Reagent H",
+    "batch": "B133",
+    "expiry": "2027-01-04",
+    "usage": 80,
+    "stock": 1486
+  },
+  {
+    "name": "Reagent I",
+    "batch": "B134",
+    "expiry": "2027-02-16",
+    "usage": 55,
+    "stock": 3447
+  },
+  {
+    "name": "Reagent J",
+    "batch": "B135",
+    "expiry": "2027-04-29",
+    "usage": 120,
+    "stock": 4914
+  },
+  {
+    "name": "Reagent K",
+    "batch": "B136",
+    "expiry": "2027-02-03",
+    "usage": 137,
+    "stock": 3798
+  },
+  {
+    "name": "Reagent L",
+    "batch": "B137",
+    "expiry": "2026-04-29",
+    "usage": 189,
+    "stock": 2268
+  },
+  {
+    "name": "Reagent M",
+    "batch": "B138",
+    "expiry": "2027-08-31",
+    "usage": 135,
+    "stock": 506
+  },
+  {
+    "name": "Reagent N",
+    "batch": "B139",
+    "expiry": "2027-03-23",
+    "usage": 161,
+    "stock": 1257
+  },
+  {
+    "name": "Reagent O",
+    "batch": "B140",
+    "expiry": "2027-08-12",
+    "usage": 63,
+    "stock": 1395
+  },
+  {
+    "name": "Reagent P",
+    "batch": "B141",
+    "expiry": "2026-02-25",
+    "usage": 184,
+    "stock": 2156
+  },
+  {
+    "name": "Reagent Q",
+    "batch": "B142",
+    "expiry": "2026-01-01",
+    "usage": 108,
+    "stock": 1136
+  },
+  {
+    "name": "Reagent R",
+    "batch": "B143",
+    "expiry": "2027-08-07",
+    "usage": 188,
+    "stock": 4255
+  },
+  {
+    "name": "Reagent S",
+    "batch": "B144",
+    "expiry": "2026-08-18",
+    "usage": 58,
+    "stock": 4598
+  },
+  {
+    "name": "Reagent T",
+    "batch": "B145",
+    "expiry": "2026-12-20",
+    "usage": 137,
+    "stock": 2051
+  },
+  {
+    "name": "Reagent U",
+    "batch": "B146",
+    "expiry": "2026-04-16",
+    "usage": 133,
+    "stock": 2453
+  },
+  {
+    "name": "Reagent V",
+    "batch": "B147",
+    "expiry": "2027-05-23",
+    "usage": 86,
+    "stock": 3479
+  },
+  {
+    "name": "Reagent W",
+    "batch": "B148",
+    "expiry": "2026-08-14",
+    "usage": 65,
+    "stock": 2709
+  },
+  {
+    "name": "Reagent X",
+    "batch": "B149",
+    "expiry": "2026-09-22",
+    "usage": 99,
+    "stock": 1096
+  },
+  {
+    "name": "Reagent Y",
+    "batch": "B150",
+    "expiry": "2026-04-14",
+    "usage": 118,
+    "stock": 3156
+  },
+  {
+    "name": "Reagent Z",
+    "batch": "B151",
+    "expiry": "2026-01-31",
+    "usage": 124,
+    "stock": 3211
+  },
+  {
+    "name": "Reagent A",
+    "batch": "B152",
+    "expiry": "2027-01-11",
+    "usage": 65,
+    "stock": 3726
+  },
+  {
+    "name": "Reagent B",
+    "batch": "B153",
+    "expiry": "2026-10-12",
+    "usage": 53,
+    "stock": 884
+  },
+  {
+    "name": "Reagent C",
+    "batch": "B154",
+    "expiry": "2026-11-17",
+    "usage": 140,
+    "stock": 3461
+  },
+  {
+    "name": "Reagent D",
+    "batch": "B155",
+    "expiry": "2025-11-13",
+    "usage": 126,
+    "stock": 885
+  },
+  {
+    "name": "Reagent E",
+    "batch": "B156",
+    "expiry": "2027-01-28",
+    "usage": 142,
+    "stock": 2739
+  },
+  {
+    "name": "Reagent F",
+    "batch": "B157",
+    "expiry": "2026-07-30",
+    "usage": 69,
+    "stock": 3946
+  },
+  {
+    "name": "Reagent G",
+    "batch": "B158",
+    "expiry": "2025-11-22",
+    "usage": 176,
+    "stock": 1094
+  },
+  {
+    "name": "Reagent H",
+    "batch": "B159",
+    "expiry": "2027-01-14",
+    "usage": 130,
+    "stock": 2667
+  },
+  {
+    "name": "Reagent I",
+    "batch": "B160",
+    "expiry": "2026-06-11",
+    "usage": 197,
+    "stock": 4142
+  },
+  {
+    "name": "Reagent J",
+    "batch": "B161",
+    "expiry": "2026-08-11",
+    "usage": 96,
+    "stock": 1276
+  },
+  {
+    "name": "Reagent K",
+    "batch": "B162",
+    "expiry": "2026-04-05",
+    "usage": 66,
+    "stock": 4746
+  },
+  {
+    "name": "Reagent L",
+    "batch": "B163",
+    "expiry": "2026-05-10",
+    "usage": 95,
+    "stock": 1332
+  },
+  {
+    "name": "Reagent M",
+    "batch": "B164",
+    "expiry": "2026-12-11",
+    "usage": 105,
+    "stock": 4444
+  },
+  {
+    "name": "Reagent N",
+    "batch": "B165",
+    "expiry": "2027-07-06",
+    "usage": 191,
+    "stock": 3810
+  },
+  {
+    "name": "Reagent O",
+    "batch": "B166",
+    "expiry": "2026-03-16",
+    "usage": 107,
+    "stock": 3482
+  },
+  {
+    "name": "Reagent P",
+    "batch": "B167",
+    "expiry": "2026-10-14",
+    "usage": 55,
+    "stock": 1503
+  },
+  {
+    "name": "Reagent Q",
+    "batch": "B168",
+    "expiry": "2026-11-18",
+    "usage": 67,
+    "stock": 3564
+  },
+  {
+    "name": "Reagent R",
+    "batch": "B169",
+    "expiry": "2026-12-20",
+    "usage": 96,
+    "stock": 1983
+  },
+  {
+    "name": "Reagent S",
+    "batch": "B170",
+    "expiry": "2026-03-21",
+    "usage": 135,
+    "stock": 4585
+  },
+  {
+    "name": "Reagent T",
+    "batch": "B171",
+    "expiry": "2026-02-03",
+    "usage": 157,
+    "stock": 2037
+  },
+  {
+    "name": "Reagent U",
+    "batch": "B172",
+    "expiry": "2026-02-06",
+    "usage": 107,
+    "stock": 1580
+  },
+  {
+    "name": "Reagent V",
+    "batch": "B173",
+    "expiry": "2025-11-16",
+    "usage": 152,
+    "stock": 1521
+  },
+  {
+    "name": "Reagent W",
+    "batch": "B174",
+    "expiry": "2027-06-04",
+    "usage": 71,
+    "stock": 3031
+  },
+  {
+    "name": "Reagent X",
+    "batch": "B175",
+    "expiry": "2027-04-25",
+    "usage": 60,
+    "stock": 4656
+  },
+  {
+    "name": "Reagent Y",
+    "batch": "B176",
+    "expiry": "2027-02-17",
+    "usage": 191,
+    "stock": 3265
+  },
+  {
+    "name": "Reagent Z",
+    "batch": "B177",
+    "expiry": "2025-11-22",
+    "usage": 162,
+    "stock": 2558
+  },
+  {
+    "name": "Reagent A",
+    "batch": "B178",
+    "expiry": "2026-05-20",
+    "usage": 137,
+    "stock": 4621
+  },
+  {
+    "name": "Reagent B",
+    "batch": "B179",
+    "expiry": "2027-01-05",
+    "usage": 133,
+    "stock": 671
+  },
+  {
+    "name": "Reagent C",
+    "batch": "B180",
+    "expiry": "2026-02-14",
+    "usage": 178,
+    "stock": 3367
+  },
+  {
+    "name": "Reagent D",
+    "batch": "B181",
+    "expiry": "2027-04-12",
+    "usage": 88,
+    "stock": 2630
+  },
+  {
+    "name": "Reagent E",
+    "batch": "B182",
+    "expiry": "2027-03-01",
+    "usage": 126,
+    "stock": 810
+  },
+  {
+    "name": "Reagent F",
+    "batch": "B183",
+    "expiry": "2025-11-26",
+    "usage": 106,
+    "stock": 4954
+  },
+  {
+    "name": "Reagent G",
+    "batch": "B184",
+    "expiry": "2027-04-26",
+    "usage": 113,
+    "stock": 805
+  },
+  {
+    "name": "Reagent H",
+    "batch": "B185",
+    "expiry": "2026-09-14",
+    "usage": 119,
+    "stock": 4451
+  },
+  {
+    "name": "Reagent I",
+    "batch": "B186",
+    "expiry": "2026-12-29",
+    "usage": 177,
+    "stock": 4239
+  },
+  {
+    "name": "Reagent J",
+    "batch": "B187",
+    "expiry": "2027-05-15",
+    "usage": 91,
+    "stock": 3203
+  },
+  {
+    "name": "Reagent K",
+    "batch": "B188",
+    "expiry": "2027-01-23",
+    "usage": 135,
+    "stock": 4863
+  },
+  {
+    "name": "Reagent L",
+    "batch": "B189",
+    "expiry": "2026-11-20",
+    "usage": 152,
+    "stock": 815
+  },
+  {
+    "name": "Reagent M",
+    "batch": "B190",
+    "expiry": "2026-05-12",
+    "usage": 96,
+    "stock": 2228
+  },
+  {
+    "name": "Reagent N",
+    "batch": "B191",
+    "expiry": "2026-11-21",
+    "usage": 94,
+    "stock": 2154
+  },
+  {
+    "name": "Reagent O",
+    "batch": "B192",
+    "expiry": "2026-07-31",
+    "usage": 158,
+    "stock": 1916
+  },
+  {
+    "name": "Reagent P",
+    "batch": "B193",
+    "expiry": "2026-05-09",
+    "usage": 130,
+    "stock": 2044
+  },
+  {
+    "name": "Reagent Q",
+    "batch": "B194",
+    "expiry": "2026-12-15",
+    "usage": 109,
+    "stock": 4951
+  },
+  {
+    "name": "Reagent R",
+    "batch": "B195",
+    "expiry": "2026-10-26",
+    "usage": 90,
+    "stock": 3886
+  },
+  {
+    "name": "Reagent S",
+    "batch": "B196",
+    "expiry": "2026-05-18",
+    "usage": 162,
+    "stock": 4365
+  },
+  {
+    "name": "Reagent T",
+    "batch": "B197",
+    "expiry": "2026-06-17",
+    "usage": 57,
+    "stock": 1262
+  },
+  {
+    "name": "Reagent U",
+    "batch": "B198",
+    "expiry": "2026-09-13",
+    "usage": 69,
+    "stock": 2584
+  },
+  {
+    "name": "Reagent V",
+    "batch": "B199",
+    "expiry": "2026-04-26",
+    "usage": 56,
+    "stock": 2525
+  },
+  {
+    "name": "Reagent W",
+    "batch": "B200",
+    "expiry": "2026-09-26",
+    "usage": 56,
+    "stock": 1376
+  }
+]
